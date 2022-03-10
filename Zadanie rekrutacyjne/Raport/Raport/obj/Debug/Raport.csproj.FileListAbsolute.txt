@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\Raport.exe.config
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\Raport.exe
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\Raport.pdb
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.Form1.resources
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.Properties.Resources.resources
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.csproj.CopyComplete
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.exe
+C:\Users\User\Desktop\Zadanie rekrutacyjne\Raport\Raport\obj\Debug\Raport.pdb

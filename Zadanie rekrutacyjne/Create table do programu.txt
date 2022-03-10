@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Raport](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Nazwa] [varchar](max) NOT NULL,
+	[Data] [date] NOT NULL,
+	[Godzina] [varchar](max) NOT NULL,
+	[Użytkownik] [varchar](max) NOT NULL,
+	[Lokal] [varchar](max) NOT NULL
+)
